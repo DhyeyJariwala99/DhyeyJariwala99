@@ -6,7 +6,6 @@
 - 💬 Ask me about **Java, Python, Node.js, REST APIs, MongoDB, React**
 - 🔭 I'm currently working on **Full-Stack Applications and ML Pipelines**
 - 🌱 I'm currently learning **Cloud-Native Development, System Design, and AI Tools**
-- 👨‍🏫 Graduate Teaching Assistant @ **Northeastern University** — mentoring 50+ graduate students
 - 📍 Based in **Boston, MA**
 - 💼 Open to: **Backend SWE, Full Stack SWE, and ML Engineering internships**
 - 📫 Reach me at **jariwala.dhy@northeastern.edu**
