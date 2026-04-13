@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&width=600&lines=Hi+I'm+Dhyey+%F0%9F%91%8B;Backend+%26+Full+Stack+Engineer;MS+CS+%40+Northeastern+University;Always+building+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&width=600&lines=Hi+I'm+Dhyey+%F0%9F%91%8B;Backend+%26+Full+Stack+Engineer;MS+CS+%40+Northeastern+University;Always+building+something+new+%F0%9F%9A%80)](<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">)
 
 **MS Computer Science @ Northeastern University, Boston**
 
