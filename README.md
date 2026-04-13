@@ -1,6 +1,6 @@
 # Hi, I'm Dhyey Jariwala 👋
 
-**MS Computer Science @ Northeastern University, Boston** | GPA: 3.8
+**MS Computer Science @ Northeastern University, Boston** 
 
 I'm a backend-focused software engineer passionate about building production-ready systems, scalable APIs, and AI-powered applications. I enjoy taking projects from concept to deployment and thrive in fast-moving, collaborative environments.
 
@@ -9,7 +9,6 @@ I'm a backend-focused software engineer passionate about building production-rea
 ## 🚀 About Me
 
 - 🎓 MS in Computer Science @ **Northeastern University** (Jan 2025 - Present)
-- 👨‍🏫 Graduate Teaching Assistant for Machine Learning — mentoring 50+ graduate students
 - 🔭 Currently building: full-stack applications and ML pipelines
 - 🌱 Always learning: cloud-native development, system design, and emerging AI tools
 - 📍 Based in Boston, MA
@@ -64,40 +63,6 @@ I'm a backend-focused software engineer passionate about building production-rea
 
 ---
 
-## 📌 Featured Projects
-
-### 🎬 [Full-Stack Movie Social Network with Hybrid Recommendation Engine](https://github.com/orgs/Full-Stack-Movie-Social-Network/repositories)
-> React · Node.js · MongoDB · Python · TMDB API · Netlify · Render
-
-A socially-driven movie platform supporting 500K+ titles via TMDB API integration, with user reviews, ratings, following, and role-based access for 3 user types. Includes a Python hybrid recommendation engine combining collaborative filtering, content-based filtering, and similarity scoring for personalized feeds.
-
----
-
-### 📚 [Canvas LMS Clone](https://github.com/DhyeyJariwala99/Kambaz-React-JS-)
-> TypeScript · React · Node.js · MongoDB · REST API · Vercel · Render
-
-A full-stack Learning Management System replicating core Canvas features — course management, grades, syllabus, roster, quizzes — with role-based access for students, instructors, and TAs. Deployed with CI/CD pipelines via GitHub Actions.
-
----
-
-### 📅 [Extensible Calendar Analytics Dashboard](https://github.com/DhyeyJariwala99/Extensible-Calendar)
-> Java · Swing · MVC · JUnit
-
-A modular Java calendar app built across 3 execution modes (GUI, CLI, headless batch) on strict MVC architecture. Features a custom analytics dashboard with event frequency distributions, busiest/least busy day analysis, and Google Calendar-compatible CSV import/export.
-
----
-
-### 🎙️ Real-Time Speech Emotion Recognition with Adaptive Music Recommendation
-> Python · TensorFlow · Librosa · Scikit-learn · RAVDESS · TESS
-
-An end-to-end applied AI system that detects emotions from live speech across 8 categories, trained on 2,452 audio samples using CNN and LSTM architectures. Includes a timer-triggered human-in-the-loop feedback pipeline for continuous model refinement.
-
----
-
-## 📊 GitHub Stats
-
-![Dhyey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhyeyJariwala99&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhyeyJariwala99&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
