@@ -61,10 +61,6 @@ I'm a backend-focused software engineer passionate about building production-rea
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
----
-
-
----
 
 ## 📫 Connect with Me
 
